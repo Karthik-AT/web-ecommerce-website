@@ -1,0 +1,141 @@
+13-May-2026 23:37:06.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.87
+13-May-2026 23:37:06.122 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 11 2024 10:12:34 UTC
+13-May-2026 23:37:06.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.87.0
+13-May-2026 23:37:06.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-May-2026 23:37:06.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-May-2026 23:37:06.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-May-2026 23:37:06.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Microsoft\jdk-17.0.16.8-hotspot
+13-May-2026 23:37:06.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.16+8-LTS
+13-May-2026 23:37:06.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+13-May-2026 23:37:06.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:37:06.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:37:06.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-May-2026 23:37:06.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-May-2026 23:37:06.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-May-2026 23:37:06.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-May-2026 23:37:06.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-May-2026 23:37:06.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\conf\logging.properties
+13-May-2026 23:37:06.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-May-2026 23:37:06.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-May-2026 23:37:06.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-May-2026 23:37:06.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-May-2026 23:37:06.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:37:06.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:37:06.145 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\temp
+13-May-2026 23:37:06.153 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.0] using APR version [1.7.4].
+13-May-2026 23:37:06.153 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+13-May-2026 23:37:06.153 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+13-May-2026 23:37:06.171 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+13-May-2026 23:37:06.558 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-May-2026 23:37:06.603 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [714] milliseconds
+13-May-2026 23:37:06.667 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-May-2026 23:37:06.667 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+13-May-2026 23:37:06.692 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\jsp-servlet-ecommerce-website.war]
+13-May-2026 23:37:10.262 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-May-2026 23:37:10.399 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\jsp-servlet-ecommerce-website.war] has finished in [3,706] ms
+13-May-2026 23:37:10.400 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\docs]
+13-May-2026 23:37:10.460 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\docs] has finished in [59] ms
+13-May-2026 23:37:10.460 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\examples]
+13-May-2026 23:37:11.277 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\examples] has finished in [817] ms
+13-May-2026 23:37:11.278 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\host-manager]
+13-May-2026 23:37:11.372 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\host-manager] has finished in [94] ms
+13-May-2026 23:37:11.373 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\manager]
+13-May-2026 23:37:11.457 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\manager] has finished in [84] ms
+13-May-2026 23:37:11.458 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\ROOT]
+13-May-2026 23:37:11.506 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\ROOT] has finished in [47] ms
+13-May-2026 23:37:11.513 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-May-2026 23:37:11.649 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5045] milliseconds
+13-May-2026 23:51:56.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.87
+13-May-2026 23:51:56.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 11 2024 10:12:34 UTC
+13-May-2026 23:51:56.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.87.0
+13-May-2026 23:51:56.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-May-2026 23:51:56.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-May-2026 23:51:56.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-May-2026 23:51:56.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Microsoft\jdk-17.0.16.8-hotspot
+13-May-2026 23:51:56.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.16+8-LTS
+13-May-2026 23:51:56.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+13-May-2026 23:51:56.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:51:56.723 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:51:56.738 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-May-2026 23:51:56.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-May-2026 23:51:56.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-May-2026 23:51:56.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-May-2026 23:51:56.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-May-2026 23:51:56.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\conf\logging.properties
+13-May-2026 23:51:56.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-May-2026 23:51:56.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-May-2026 23:51:56.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-May-2026 23:51:56.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-May-2026 23:51:56.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:51:56.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:51:56.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\temp
+13-May-2026 23:51:56.745 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.0] using APR version [1.7.4].
+13-May-2026 23:51:56.745 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+13-May-2026 23:51:56.745 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+13-May-2026 23:51:56.754 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+13-May-2026 23:51:57.092 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-May-2026 23:51:57.134 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [628] milliseconds
+13-May-2026 23:51:57.202 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-May-2026 23:51:57.203 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+13-May-2026 23:51:57.227 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\jsp-servlet-ecommerce-website.war]
+13-May-2026 23:52:00.201 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-May-2026 23:52:00.326 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\jsp-servlet-ecommerce-website.war] has finished in [3,099] ms
+13-May-2026 23:52:00.326 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\docs]
+13-May-2026 23:52:00.378 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\docs] has finished in [51] ms
+13-May-2026 23:52:00.379 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\examples]
+13-May-2026 23:52:01.010 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\examples] has finished in [630] ms
+13-May-2026 23:52:01.011 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\host-manager]
+13-May-2026 23:52:01.088 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\host-manager] has finished in [76] ms
+13-May-2026 23:52:01.089 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\manager]
+13-May-2026 23:52:01.155 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\manager] has finished in [66] ms
+13-May-2026 23:52:01.155 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\ROOT]
+13-May-2026 23:52:01.194 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\ROOT] has finished in [38] ms
+13-May-2026 23:52:01.198 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-May-2026 23:52:01.250 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4114] milliseconds
+13-May-2026 23:56:56.741 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.87
+13-May-2026 23:56:56.745 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 11 2024 10:12:34 UTC
+13-May-2026 23:56:56.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.87.0
+13-May-2026 23:56:56.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-May-2026 23:56:56.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-May-2026 23:56:56.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-May-2026 23:56:56.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Microsoft\jdk-17.0.16.8-hotspot
+13-May-2026 23:56:56.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.16+8-LTS
+13-May-2026 23:56:56.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+13-May-2026 23:56:56.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:56:56.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:56:56.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+13-May-2026 23:56:56.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+13-May-2026 23:56:56.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+13-May-2026 23:56:56.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-May-2026 23:56:56.765 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-May-2026 23:56:56.765 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\conf\logging.properties
+13-May-2026 23:56:56.765 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-May-2026 23:56:56.765 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-May-2026 23:56:56.765 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-May-2026 23:56:56.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-May-2026 23:56:56.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:56:56.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87
+13-May-2026 23:56:56.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\temp
+13-May-2026 23:56:56.773 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.0] using APR version [1.7.4].
+13-May-2026 23:56:56.774 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+13-May-2026 23:56:56.774 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+13-May-2026 23:56:56.786 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+13-May-2026 23:56:57.204 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-May-2026 23:56:57.246 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [766] milliseconds
+13-May-2026 23:56:57.329 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-May-2026 23:56:57.329 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+13-May-2026 23:56:57.365 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\jsp-servlet-ecommerce-website.war]
+13-May-2026 23:57:01.299 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-May-2026 23:57:01.447 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\jsp-servlet-ecommerce-website.war] has finished in [4,081] ms
+13-May-2026 23:57:01.448 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\docs]
+13-May-2026 23:57:01.509 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\docs] has finished in [61] ms
+13-May-2026 23:57:01.510 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\examples]
+13-May-2026 23:57:02.178 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\examples] has finished in [668] ms
+13-May-2026 23:57:02.178 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\host-manager]
+13-May-2026 23:57:02.256 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\host-manager] has finished in [78] ms
+13-May-2026 23:57:02.257 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\manager]
+13-May-2026 23:57:02.332 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\manager] has finished in [75] ms
+13-May-2026 23:57:02.333 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\ROOT]
+13-May-2026 23:57:02.380 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KARTHIK AT\Downloads\JSP-Ecom-Application-main\JSP-Ecom-Application-main\.tomcat\apache-tomcat-9.0.87\webapps\ROOT] has finished in [47] ms
+13-May-2026 23:57:02.386 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-May-2026 23:57:02.453 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5206] milliseconds
