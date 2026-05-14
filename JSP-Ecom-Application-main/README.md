@@ -523,8 +523,8 @@ Before you start, ensure you have the following installed on your system:
 
 **Via Git:**
 ```powershell
-git clone https://github.com/Rahul-18r/JSP-Ecom-Application.git
-cd JSP-Ecom-Application
+git clone https://github.com/Karthik-AT/web-ecommerce-website.git
+cd web-ecommerce-website
 ```
 
 **Or extract the ZIP file and navigate to the project directory.**
@@ -778,8 +778,8 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## 👨‍💼 Authors
 
-- **Rahul** - Current maintainer - [GitHub](https://github.com/Rahul-18r)
-- **Truong Hoang Thuan** - Original author - [GitHub](https://github.com/truonghoangthuan)
+- **Karthik AT** - Developer & Maintainer - [GitHub](https://github.com/Karthik-AT)
+- **Truong Hoang Thuan** - Original foundation author - [GitHub](https://github.com/truonghoangthuan)
 
 ## 📞 Support
 
